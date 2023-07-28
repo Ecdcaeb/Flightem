@@ -1,0 +1,216 @@
+Unsupposrted library path: E:\project\MC MOD\lnRepair\IdeallandFramework-master\HilebRay\build\classes\java\api
+Unsupposrted library path: E:\project\MC MOD\lnRepair\IdeallandFramework-master\HilebRay\build\resources\api
+Symbol range map extraction starting
+Processing 5 files
+startProcessing "com/Hileb/lnrepair_2317/IdlFramework.java" md5: 248b6294024f2f25eb73554be1c5e245
+@|com/Hileb/lnrepair_2317/IdlFramework.java|8|31|com.Hileb.lnrepair_2317|package|com.Hileb.lnrepair_2317|(file)
+Class Start: com.Hileb.lnrepair_2317.IdlFramework
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|351|354|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|355|360|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|363|375|IdlFramework|class|com.Hileb.lnrepair_2317.IdlFramework|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|376|381|MODID|field|com.Hileb.lnrepair_2317.IdlFramework|MODID
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|383|387|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|390|402|IdlFramework|class|com.Hileb.lnrepair_2317.IdlFramework|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|403|407|NAME|field|com.Hileb.lnrepair_2317.IdlFramework|NAME
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|409|416|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|419|431|IdlFramework|class|com.Hileb.lnrepair_2317.IdlFramework|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|432|439|VERSION|field|com.Hileb.lnrepair_2317.IdlFramework|VERSION
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|510|522|IdlFramework|class|com.Hileb.lnrepair_2317.IdlFramework|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|550|556|String|class|java.lang.String|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|550|556|String|class|java.lang.String|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|557|562|MODID|field|com.Hileb.lnrepair_2317.IdlFramework|MODID|
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|607|613|String|class|java.lang.String|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|607|613|String|class|java.lang.String|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|614|618|NAME|field|com.Hileb.lnrepair_2317.IdlFramework|NAME|
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|660|666|String|class|java.lang.String|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|660|666|String|class|java.lang.String|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|667|674|VERSION|field|com.Hileb.lnrepair_2317.IdlFramework|VERSION|
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|709|715|Logger|class|org.apache.logging.log4j.Logger|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|709|715|Logger|class|org.apache.logging.log4j.Logger|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|716|722|logger|field|com.Hileb.lnrepair_2317.IdlFramework|logger|
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|759|768|SHOW_WARN|field|com.Hileb.lnrepair_2317.IdlFramework|SHOW_WARN|
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|817|829|IdlFramework|class|com.Hileb.lnrepair_2317.IdlFramework|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|785|797|Mod.Instance|class|net.minecraftforge.fml.common.Mod.Instance|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|817|829|IdlFramework|class|com.Hileb.lnrepair_2317.IdlFramework|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|830|838|instance|field|com.Hileb.lnrepair_2317.IdlFramework|instance|
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|993|1002|ProxyBase|class|com.Hileb.lnrepair_2317.proxy.ProxyBase|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|848|858|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|859|869|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|917|927|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|993|1002|ProxyBase|class|com.Hileb.lnrepair_2317.proxy.ProxyBase|false
+   @|com/Hileb/lnrepair_2317/IdlFramework.java|1003|1008|proxy|field|com.Hileb.lnrepair_2317.IdlFramework|proxy|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1082|1087|event|param|com.Hileb.lnrepair_2317.IdlFramework|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1018|1030|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1048|1055|preInit|method|com.Hileb.lnrepair_2317.IdlFramework|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1056|1081|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1100|1106|logger|field|com.Hileb.lnrepair_2317.IdlFramework|logger
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1109|1114|event|param|com.Hileb.lnrepair_2317.IdlFramework|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1115|1124|getModLog|method|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|getModLog|()Lorg/apache/logging/log4j/Logger;
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1141|1148|Tooltip|class|com.Hileb.lnrepair_2317.Tooltip|false
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: LogWarning(Ljava/lang/String;[Ljava/lang/Object;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1203|1206|str|param|com.Hileb.lnrepair_2317.IdlFramework|LogWarning|(Ljava/lang/String;[Ljava/lang/Object;)V|str|0
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1218|1222|args|param|com.Hileb.lnrepair_2317.IdlFramework|LogWarning|(Ljava/lang/String;[Ljava/lang/Object;)V|args|1
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1185|1195|LogWarning|method|com.Hileb.lnrepair_2317.IdlFramework|LogWarning|(Ljava/lang/String;[Ljava/lang/Object;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1196|1202|String|class|java.lang.String|false
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1208|1214|Object|class|java.lang.Object|false
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1239|1248|SHOW_WARN|field|com.Hileb.lnrepair_2317.IdlFramework|SHOW_WARN
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1265|1271|logger|field|com.Hileb.lnrepair_2317.IdlFramework|logger
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1272|1276|warn|method|org.apache.logging.log4j.Logger|warn|(Ljava/lang/String;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1277|1283|String|class|java.lang.String|false
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1284|1290|format|method|java.lang.String|format|(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1291|1294|str|param|com.Hileb.lnrepair_2317.IdlFramework|LogWarning|(Ljava/lang/String;[Ljava/lang/Object;)V|str|0
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1296|1300|args|param|com.Hileb.lnrepair_2317.IdlFramework|LogWarning|(Ljava/lang/String;[Ljava/lang/Object;)V|args|1
+   Method End: LogWarning(Ljava/lang/String;[Ljava/lang/Object;)V
+   Method Start: LogWarning(Ljava/lang/String;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1364|1367|str|param|com.Hileb.lnrepair_2317.IdlFramework|LogWarning|(Ljava/lang/String;)V|str|0
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1346|1356|LogWarning|method|com.Hileb.lnrepair_2317.IdlFramework|LogWarning|(Ljava/lang/String;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1357|1363|String|class|java.lang.String|false
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1384|1393|SHOW_WARN|field|com.Hileb.lnrepair_2317.IdlFramework|SHOW_WARN
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1410|1416|logger|field|com.Hileb.lnrepair_2317.IdlFramework|logger
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1417|1421|warn|method|org.apache.logging.log4j.Logger|warn|(Ljava/lang/String;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1422|1425|str|param|com.Hileb.lnrepair_2317.IdlFramework|LogWarning|(Ljava/lang/String;)V|str|0
+   Method End: LogWarning(Ljava/lang/String;)V
+   Method Start: Log(Ljava/lang/String;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1481|1484|str|param|com.Hileb.lnrepair_2317.IdlFramework|Log|(Ljava/lang/String;)V|str|0
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1470|1473|Log|method|com.Hileb.lnrepair_2317.IdlFramework|Log|(Ljava/lang/String;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1474|1480|String|class|java.lang.String|false
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1497|1503|logger|field|com.Hileb.lnrepair_2317.IdlFramework|logger
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1504|1508|info|method|org.apache.logging.log4j.Logger|info|(Ljava/lang/String;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1509|1512|str|param|com.Hileb.lnrepair_2317.IdlFramework|Log|(Ljava/lang/String;)V|str|0
+   Method End: Log(Ljava/lang/String;)V
+   Method Start: Log(Ljava/lang/String;[Ljava/lang/Object;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1557|1560|str|param|com.Hileb.lnrepair_2317.IdlFramework|Log|(Ljava/lang/String;[Ljava/lang/Object;)V|str|0
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1572|1576|args|param|com.Hileb.lnrepair_2317.IdlFramework|Log|(Ljava/lang/String;[Ljava/lang/Object;)V|args|1
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1546|1549|Log|method|com.Hileb.lnrepair_2317.IdlFramework|Log|(Ljava/lang/String;[Ljava/lang/Object;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1550|1556|String|class|java.lang.String|false
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1562|1568|Object|class|java.lang.Object|false
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1589|1595|logger|field|com.Hileb.lnrepair_2317.IdlFramework|logger
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1596|1600|info|method|org.apache.logging.log4j.Logger|info|(Ljava/lang/String;)V
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1601|1607|String|class|java.lang.String|false
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1608|1614|format|method|java.lang.String|format|(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1615|1618|str|param|com.Hileb.lnrepair_2317.IdlFramework|Log|(Ljava/lang/String;[Ljava/lang/Object;)V|str|0
+      @|com/Hileb/lnrepair_2317/IdlFramework.java|1620|1624|args|param|com.Hileb.lnrepair_2317.IdlFramework|Log|(Ljava/lang/String;[Ljava/lang/Object;)V|args|1
+   Method End: Log(Ljava/lang/String;[Ljava/lang/Object;)V
+Class End  : com.Hileb.lnrepair_2317.IdlFramework
+endProcessing "com/Hileb/lnrepair_2317/IdlFramework.java"
+
+startProcessing "com/Hileb/lnrepair_2317/Tooltip.java" md5: 8d3497d1bab881f107fa5ee4312fb4c2
+@|com/Hileb/lnrepair_2317/Tooltip.java|8|31|com.Hileb.lnrepair_2317|package|com.Hileb.lnrepair_2317|(file)
+Class Start: com.Hileb.lnrepair_2317.Tooltip
+   @|com/Hileb/lnrepair_2317/Tooltip.java|480|502|Mod.EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+   @|com/Hileb/lnrepair_2317/Tooltip.java|503|508|modid|method|net.minecraftforge.fml.common.Mod.EventBusSubscriber|modid|()Ljava/lang/String;
+   @|com/Hileb/lnrepair_2317/Tooltip.java|511|523|IdlFramework|class|com.Hileb.lnrepair_2317.IdlFramework|false
+   @|com/Hileb/lnrepair_2317/Tooltip.java|524|529|MODID|field|com.Hileb.lnrepair_2317.IdlFramework|MODID
+   @|com/Hileb/lnrepair_2317/Tooltip.java|545|552|Tooltip|class|com.Hileb.lnrepair_2317.Tooltip|false
+   Method Start: onTooltp(Lnet/minecraftforge/event/entity/player/ItemTooltipEvent;)V
+      @|com/Hileb/lnrepair_2317/Tooltip.java|687|692|event|param|com.Hileb.lnrepair_2317.Tooltip|onTooltp|(Lnet/minecraftforge/event/entity/player/ItemTooltipEvent;)V|event|0
+      @|com/Hileb/lnrepair_2317/Tooltip.java|561|569|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+      @|com/Hileb/lnrepair_2317/Tooltip.java|570|574|Side|class|net.minecraftforge.fml.relauncher.Side|false
+      @|com/Hileb/lnrepair_2317/Tooltip.java|575|581|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|com/Hileb/lnrepair_2317/Tooltip.java|589|603|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|com/Hileb/lnrepair_2317/Tooltip.java|604|612|priority|method|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|priority|()Lnet/minecraftforge/fml/common/eventhandler/EventPriority;
+      @|com/Hileb/lnrepair_2317/Tooltip.java|615|628|EventPriority|class|net.minecraftforge.fml.common.eventhandler.EventPriority|false
+      @|com/Hileb/lnrepair_2317/Tooltip.java|629|635|LOWEST|field|net.minecraftforge.fml.common.eventhandler.EventPriority|LOWEST
+      @|com/Hileb/lnrepair_2317/Tooltip.java|661|669|onTooltp|method|com.Hileb.lnrepair_2317.Tooltip|onTooltp|(Lnet/minecraftforge/event/entity/player/ItemTooltipEvent;)V
+      @|com/Hileb/lnrepair_2317/Tooltip.java|670|686|ItemTooltipEvent|class|net.minecraftforge.event.entity.player.ItemTooltipEvent|false
+      @|com/Hileb/lnrepair_2317/Tooltip.java|708|713|event|param|com.Hileb.lnrepair_2317.Tooltip|onTooltp|(Lnet/minecraftforge/event/entity/player/ItemTooltipEvent;)V|event|0
+      @|com/Hileb/lnrepair_2317/Tooltip.java|714|729|getEntityPlayer|method|net.minecraftforge.event.entity.player.PlayerEvent|getEntityPlayer|()Lnet/minecraft/entity/player/EntityPlayer;
+      @|com/Hileb/lnrepair_2317/Tooltip.java|741|746|event|param|com.Hileb.lnrepair_2317.Tooltip|onTooltp|(Lnet/minecraftforge/event/entity/player/ItemTooltipEvent;)V|event|0
+      @|com/Hileb/lnrepair_2317/Tooltip.java|747|762|getEntityPlayer|method|net.minecraftforge.event.entity.player.PlayerEvent|getEntityPlayer|()Lnet/minecraft/entity/player/EntityPlayer;
+      @|com/Hileb/lnrepair_2317/Tooltip.java|765|770|world|field|net.minecraft.entity.Entity|world
+      @|com/Hileb/lnrepair_2317/Tooltip.java|781|786|event|param|com.Hileb.lnrepair_2317.Tooltip|onTooltp|(Lnet/minecraftforge/event/entity/player/ItemTooltipEvent;)V|event|0
+      @|com/Hileb/lnrepair_2317/Tooltip.java|787|802|getEntityPlayer|method|net.minecraftforge.event.entity.player.PlayerEvent|getEntityPlayer|()Lnet/minecraft/entity/player/EntityPlayer;
+      @|com/Hileb/lnrepair_2317/Tooltip.java|805|810|world|field|net.minecraft.entity.Entity|world
+      @|com/Hileb/lnrepair_2317/Tooltip.java|811|819|isRemote|field|net.minecraft.world.World|isRemote
+      @|com/Hileb/lnrepair_2317/Tooltip.java|837|841|List|class|java.util.List|false
+      @|com/Hileb/lnrepair_2317/Tooltip.java|842|848|String|class|java.lang.String|false
+      @|com/Hileb/lnrepair_2317/Tooltip.java|857|866|ArrayList|class|java.util.ArrayList|false
+      @|com/Hileb/lnrepair_2317/Tooltip.java|885|891|String|class|java.lang.String|false
+      @|com/Hileb/lnrepair_2317/Tooltip.java|895|900|event|param|com.Hileb.lnrepair_2317.Tooltip|onTooltp|(Lnet/minecraftforge/event/entity/player/ItemTooltipEvent;)V|event|0
+      @|com/Hileb/lnrepair_2317/Tooltip.java|901|911|getToolTip|method|net.minecraftforge.event.entity.player.ItemTooltipEvent|getToolTip|()Ljava/util/List;
+      @|com/Hileb/lnrepair_2317/Tooltip.java|929|935|String|class|java.lang.String|false
+      @|com/Hileb/lnrepair_2317/Tooltip.java|974|980|length|method|java.lang.CharSequence|length|()I
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1014|1025|toCharArray|method|java.lang.String|toCharArray|()[C
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1043|1054|toCharArray|method|java.lang.String|toCharArray|()[C
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1075|1081|length|method|java.lang.CharSequence|length|()I
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1113|1116|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1255|1266|toCharArray|method|java.lang.String|toCharArray|()[C
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1305|1308|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1422|1433|toCharArray|method|java.lang.String|toCharArray|()[C
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1473|1476|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1502|1507|event|param|com.Hileb.lnrepair_2317.Tooltip|onTooltp|(Lnet/minecraftforge/event/entity/player/ItemTooltipEvent;)V|event|0
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1508|1518|getToolTip|method|net.minecraftforge.event.entity.player.ItemTooltipEvent|getToolTip|()Ljava/util/List;
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1521|1526|clear|method|java.util.Collection|clear|()V
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1543|1549|String|class|java.lang.String|false
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1571|1576|event|param|com.Hileb.lnrepair_2317.Tooltip|onTooltp|(Lnet/minecraftforge/event/entity/player/ItemTooltipEvent;)V|event|0
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1577|1587|getToolTip|method|net.minecraftforge.event.entity.player.ItemTooltipEvent|getToolTip|()Ljava/util/List;
+      @|com/Hileb/lnrepair_2317/Tooltip.java|1590|1593|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: onTooltp(Lnet/minecraftforge/event/entity/player/ItemTooltipEvent;)V
+Class End  : com.Hileb.lnrepair_2317.Tooltip
+endProcessing "com/Hileb/lnrepair_2317/Tooltip.java"
+
+startProcessing "com/Hileb/lnrepair_2317/proxy/ClientProxy.java" md5: 75525250d65cb6a82fee29bd448183e4
+@|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|8|37|com.Hileb.lnrepair_2317.proxy|package|com.Hileb.lnrepair_2317.proxy|(file)
+Class Start: com.Hileb.lnrepair_2317.proxy.ClientProxy
+   @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|321|332|ClientProxy|class|com.Hileb.lnrepair_2317.proxy.ClientProxy|false
+   @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|341|350|ProxyBase|class|com.Hileb.lnrepair_2317.proxy.ProxyBase|false
+   @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|383|393|KeyBinding|class|net.minecraft.client.settings.KeyBinding|false
+   @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|378|382|List|class|java.util.List|false
+   @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|378|382|List|class|java.util.List|false
+   @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|383|393|KeyBinding|class|net.minecraft.client.settings.KeyBinding|false
+   @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|395|407|KEY_BINDINGS|field|com.Hileb.lnrepair_2317.proxy.ClientProxy|KEY_BINDINGS|
+   @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|414|423|ArrayList|class|java.util.ArrayList|false
+   @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|424|434|KeyBinding|class|net.minecraft.client.settings.KeyBinding|false
+   Method Start: isServer()Z
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|838|846|isServer|method|com.Hileb.lnrepair_2317.proxy.ProxyBase|isServer|()Z
+   Method End: isServer()Z
+   Method Start: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|916|920|item|param|com.Hileb.lnrepair_2317.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|926|930|meta|param|com.Hileb.lnrepair_2317.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|939|941|id|param|com.Hileb.lnrepair_2317.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|890|910|registerItemRenderer|method|com.Hileb.lnrepair_2317.proxy.ProxyBase|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|911|915|Item|class|net.minecraft.item.Item|false
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|932|938|String|class|java.lang.String|false
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|950|961|ModelLoader|class|net.minecraftforge.client.model.ModelLoader|false
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|962|992|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|993|997|item|param|com.Hileb.lnrepair_2317.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|999|1003|meta|param|com.Hileb.lnrepair_2317.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|1009|1030|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation|false
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|1031|1035|item|param|com.Hileb.lnrepair_2317.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|1036|1051|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|com/Hileb/lnrepair_2317/proxy/ClientProxy.java|1055|1057|id|param|com.Hileb.lnrepair_2317.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+   Method End: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+Class End  : com.Hileb.lnrepair_2317.proxy.ClientProxy
+endProcessing "com/Hileb/lnrepair_2317/proxy/ClientProxy.java"
+
+startProcessing "com/Hileb/lnrepair_2317/proxy/ProxyBase.java" md5: fa37e54a975aa474f059763dfd57c865
+@|com/Hileb/lnrepair_2317/proxy/ProxyBase.java|8|37|com.Hileb.lnrepair_2317.proxy|package|com.Hileb.lnrepair_2317.proxy|(file)
+Class Start: com.Hileb.lnrepair_2317.proxy.ProxyBase
+   @|com/Hileb/lnrepair_2317/proxy/ProxyBase.java|90|99|ProxyBase|class|com.Hileb.lnrepair_2317.proxy.ProxyBase|false
+   Method Start: isServer()Z
+      @|com/Hileb/lnrepair_2317/proxy/ProxyBase.java|119|127|isServer|method|com.Hileb.lnrepair_2317.proxy.ProxyBase|isServer|()Z
+   Method End: isServer()Z
+   Method Start: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/Hileb/lnrepair_2317/proxy/ProxyBase.java|197|201|item|param|com.Hileb.lnrepair_2317.proxy.ProxyBase|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com/Hileb/lnrepair_2317/proxy/ProxyBase.java|207|211|meta|param|com.Hileb.lnrepair_2317.proxy.ProxyBase|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com/Hileb/lnrepair_2317/proxy/ProxyBase.java|220|222|id|param|com.Hileb.lnrepair_2317.proxy.ProxyBase|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+      @|com/Hileb/lnrepair_2317/proxy/ProxyBase.java|171|191|registerItemRenderer|method|com.Hileb.lnrepair_2317.proxy.ProxyBase|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/Hileb/lnrepair_2317/proxy/ProxyBase.java|192|196|Item|class|net.minecraft.item.Item|false
+      @|com/Hileb/lnrepair_2317/proxy/ProxyBase.java|213|219|String|class|java.lang.String|false
+   Method End: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+Class End  : com.Hileb.lnrepair_2317.proxy.ProxyBase
+endProcessing "com/Hileb/lnrepair_2317/proxy/ProxyBase.java"
+
+startProcessing "com/Hileb/lnrepair_2317/proxy/ServerProxy.java" md5: a8f5a687efddf2147cf43e1bf30d007c
+@|com/Hileb/lnrepair_2317/proxy/ServerProxy.java|8|37|com.Hileb.lnrepair_2317.proxy|package|com.Hileb.lnrepair_2317.proxy|(file)
+Class Start: com.Hileb.lnrepair_2317.proxy.ServerProxy
+   @|com/Hileb/lnrepair_2317/proxy/ServerProxy.java|55|66|ServerProxy|class|com.Hileb.lnrepair_2317.proxy.ServerProxy|false
+   @|com/Hileb/lnrepair_2317/proxy/ServerProxy.java|75|84|ProxyBase|class|com.Hileb.lnrepair_2317.proxy.ProxyBase|false
+   Method Start: isServer()Z
+      @|com/Hileb/lnrepair_2317/proxy/ServerProxy.java|107|115|isServer|method|com.Hileb.lnrepair_2317.proxy.ProxyBase|isServer|()Z
+   Method End: isServer()Z
+Class End  : com.Hileb.lnrepair_2317.proxy.ServerProxy
+endProcessing "com/Hileb/lnrepair_2317/proxy/ServerProxy.java"
+

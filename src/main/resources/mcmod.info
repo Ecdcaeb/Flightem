@@ -1,0 +1,16 @@
+[
+{
+  "modid": "flightord",
+  "name": "Flightord",
+  "description": "A Flight(_sw)ord which carry person up to fly is added.",
+  "version": "1.0.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hileb"],
+  "credits": "\n Idealland - they provided this framework.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
