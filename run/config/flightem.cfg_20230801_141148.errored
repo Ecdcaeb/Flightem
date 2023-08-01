@@ -1,0 +1,20 @@
+# Configuration file
+
+instance {
+    S:configPathAccept=minecraft:bed;
+                        minecraft:iron_sword;
+                        minecraft:grass;
+                        minecraft:diamond_sword;
+                        minecraft:stone_sword;
+                        minecraft:golden_sword;
+                        minecraft:wooden_sword
+    S:configPathAngle=minecraft:bed@{type:"flightem:bed",size:3f,angleX:-90f,adjustY:1.5f,shouldRiderSit:1f};
+    minecraft:grass@{type:"flightem:block",size:3f,angleX:180f,adjustY:2.8f};
+    minecraft:iron_sword@{type:"flightem:sword",size:1.2f,angleX:90f,angleZ:135f,adjustY:0.8f};
+    minecraft:diamond_sword@{parent:"flightem:sword"};
+    minecraft:stone_sword@{parent:"flightem:sword"};
+    minecraft:golden_sword@{parent:"flightem:sword"};
+    minecraft:wooden_sword@{parent:"flightem:sword"}
+}
+
+

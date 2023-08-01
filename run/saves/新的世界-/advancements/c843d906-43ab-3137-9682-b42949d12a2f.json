@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "frozen_river": "2023-08-01 13:20:59 +0800",
+      "taiga": "2023-08-01 13:12:56 +0800"
+    },
+    "done": false
+  }
+}
