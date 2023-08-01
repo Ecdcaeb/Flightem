@@ -1,0 +1,52 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2023-07-31 09:59:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2023-07-31 09:59:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2023-07-31 09:59:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2023-07-31 09:59:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2023-07-31 09:59:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2023-07-31 09:59:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2023-07-31 09:57:03 +0800",
+      "swampland": "2023-07-31 09:59:23 +0800",
+      "deep_ocean": "2023-07-31 10:02:37 +0800",
+      "forest_hills": "2023-07-31 09:58:30 +0800",
+      "plains": "2023-07-31 09:59:18 +0800",
+      "taiga": "2023-07-31 10:02:23 +0800",
+      "ocean": "2023-07-31 09:59:22 +0800",
+      "roofed_forest": "2023-07-31 10:01:47 +0800",
+      "river": "2023-07-31 09:59:20 +0800"
+    },
+    "done": false
+  }
+}
